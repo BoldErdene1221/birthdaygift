@@ -15,7 +15,7 @@
 	$(window).load(function () {
 
 
-		var audio = new Audio('/music/brith.mp3');
+		var audio = new Audio('./brith.mp3');
 		audio.play();
 		// will first fade out the loading animation 
 		$("#loader").fadeOut("slow", function () {
