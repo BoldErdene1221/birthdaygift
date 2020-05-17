@@ -8,6 +8,6 @@ function onClickCake() {
     document.getElementById("flame").style.display = "none";
     // window.location.href = "/cv.html", "_blank";
     setTimeout(function () {
-        window.open("/birthdaygift/cv.html", "_blank")
+        window.open("https://bolderdene1221.github.io/birthdaygift/cv.html", "_blank")
     }, 3000);
 }
